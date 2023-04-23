@@ -1,0 +1,14 @@
+name: amplicon-general
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - r-vegan
+  - r-dendextend
+  - bioconductor-dada2
+  - bioconductor-decipher
+  - bioconductor-phyloseq
+  - bioconductor-deseq2
