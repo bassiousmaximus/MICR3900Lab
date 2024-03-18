@@ -22,5 +22,8 @@ Today we will learn how to perform command-line BLAST and generate phylogenomic 
 
 # Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/gh/bassiousmaximus/bvcn-binder-gtotree/master?urlpath=lab)<br />
+#[![Binder](https://mybinder.org/badge_logo.svg)](https://gesis.mybinder.org/binder/v2/gh/bassiousmaximus/bvcn-binder-gtotree/master?urlpath=lab)<br />
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bassiousmaximus/binder-R-Gus/HEAD)<br />
+
 Just click the launch/binder icon and enter a fully-functional UNIX working environment! -fyi: it may take a few mins to load (more things to load today than last class... When it does, scroll to the bottom and click on the $_Terminal icon to start a terminal window. This is your work environment, as before :)
